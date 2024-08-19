@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: geolib
+Version: 0.1
+Summary: A geometry library for squares and triangles
+Author: Ibrahim & Arda
+Author-email: ibz.04dev@gmail.comcyrek.iota@gmail.com
+Classifier: Programming Language :: Python :: 3
