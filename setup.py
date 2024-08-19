@@ -9,5 +9,6 @@ setup(
     author_email='ibz.04dev@gmail.com' 'cyrek.iota@gmail.com',
     classifiers=[
         'Programming Language :: Python :: 3',
+        "License :: OSI Approved :: MIT License",
     ],
 )
