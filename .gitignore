@@ -1,0 +1,19 @@
+# Distribution and build folders
+dist/
+build/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Egg info
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
