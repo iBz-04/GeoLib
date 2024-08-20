@@ -56,6 +56,12 @@ print(square > small_square)  # Output: True
 ```
 
 
+## Support
+
+For support visit :
+[Discussions](https://github.com/iBz-04/GeoLib/discussions)
+
+
 ## License
 
 GeoLib is licensed under the [MIT](https://github.com/iBz-04/GeoLib?tab=MIT-1-ov-file#readme) License.
