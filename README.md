@@ -54,6 +54,9 @@ small_square = Square(3)
 print(square > small_square)  # Output: True
 
 ```
+## Documentation
+for more, see visit 
+[Geolib Documentation](https://geolib-docs-main.netlify.app/)
 
 
 ## Support
